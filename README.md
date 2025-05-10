@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lena !</h1>
-<h3 align="center">A learning web full-stack developer from France</h3>
+<h3 align="center">A learning web full-stack developer from Brittany, France</h3>
 
-- 🌱 I’m currently learning **front-end/back-end web technologies**
+- 🌱 I’m currently learning **front-end/back-end web technologies** at O'clock school !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
