@@ -20,7 +20,9 @@ Curiosity, meaningful connections, and constant growth! ✨
 - Postman 📬  
 - WordPress 🌐  
 - pgAdmin 🛢️  
-- Jira 📋
+- npm 📦  
+- Jira 📋  
+- Slack 💬
 
 ## 🛠️ Dev Environment  
 - Linux 🐧
