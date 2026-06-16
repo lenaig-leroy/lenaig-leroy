@@ -1,38 +1,60 @@
-<h1 align="center">Hey there 👋, I'm Lena !</h1>
+# Hey there 👋 I'm Lena !
 
-I'm a **full-stack** web dev student at O'clock, from Brittany, France 🌊.
-Always exploring, always learning! 🚀
+Front-End Developer currently completing a work-based apprenticeship in web development.
 
-I used to work in tourism and also studied communication - what do these worlds have in common? 🧐  
+Before moving into web development, I worked in tourism and studied communication, experiences that strengthened my adaptability, communication skills and user-focused mindset.
 
-Curiosity, meaningful connections, and constant growth! ✨
+## 🚀 Currently
 
-## 💻 Web Development  
-- HTML5  
-- CSS3 🎨  
-- JavaScript ✨  
-- Node.js 🌿  
-- Express.js 🚂  
-- Sequelize 🧬  
-- React ⚛️  
-- PostgreSQL 🐘  
-- Git 🧾  
-- Postman 📬  
-- WordPress 🌐  
-- pgAdmin 🛢️  
-- npm 📦  
-- Jira 📋  
-- Slack 💬
+- Front-End Developer Apprentice at Odeis
+- Working on Angular application modernisation and interface improvements
+- Interested in UX/UI and user-centred design
+- Available for opportunities from October 2026
 
-## 🛠️ Dev Environment  
-- Linux 🐧
-- VS Code 🖋️  
+## 💻 Technical Skills
 
-## 🎨 Design Tools  
-- Canva  
-- Figma  
-- Adobe Suite (Photoshop, Illustrator, InDesign, Lightroom)
+### Front-End
 
-## 📬 Let's connect:
+- Angular
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- Angular Material
+- PrimeNG
 
-<a href="https://linkedin.com/in/lenaig-leroy-lehen" target="blank">My LinkedIn profile</a>
+### Back-End
+
+- Node.js
+- Express.js
+- Java (Spring)
+- REST APIs
+- Sequelize
+
+### Databases
+
+- PostgreSQL
+- MySQL
+
+## 🎨 UX/UI & Design
+
+- Figma
+- Canva
+- Adobe Suite
+
+## 🛠 Tools
+
+- Git
+- GitHub
+- GitLab
+- Jira
+- Postman
+- VS Code
+- pgAdmin
+
+## 📬 Let's connect
+
+- LinkedIn
+- Portfolio (coming soon)
